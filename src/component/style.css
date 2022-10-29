@@ -1,0 +1,73 @@
+.header {
+    margin: 0px 20px;
+    cursor: pointer;
+}
+
+
+.totalComments {
+    color: rgb(143, 143, 143);
+}
+
+.backButton {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+
+.star {
+    color: aquamarine;
+}
+
+.commentList {
+    height: 80vh;
+    margin: 20px 10px;
+
+}
+
+.pp {
+    border-radius: 50%;
+}
+
+.userName {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+h4,
+.Comment_date {
+    margin: 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.sComment {
+    width: 80%;
+    margin: 20px 20px;
+}
+
+.commentList {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.more {
+    font-weight: 400;
+    color: rgb(7, 163, 111);
+}
+.rating_box{
+    margin: 10px 0;
+}
+.rating_box> * {
+    
+    margin: 0 5px;
+}
+
+.rating {
+    margin: 40px 100px;
+}
+
+
